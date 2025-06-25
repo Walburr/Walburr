@@ -2,7 +2,7 @@
 - 👀 I’m interested in all porgramming luanguages but i want to be a fullstack dev.
 - 🌱 I’m currently learning css , scss , java , javascript , python and C++
 - 💞️ I'm looking to collaborate on web development and web application
-- 📫 How to reach me : Can't for the moment . 
+- 📫 How to reach me : <a href="https://discordapp.com/users/USERID" color="#6ed6f6" >Discord</a> . 
 - ⚡ Fun fact: I code a game in Ti-basic .
 
 -Here are my socials :  
