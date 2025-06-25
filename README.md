@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @Walburr
+# 👋 Hey, i'm Walbur
 
 - 👋 Hi, I'm @Walburr
 - 👀 I'm interested in all programming languages but i want to be a fullstack dev.
@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on web development and web application
 - 📫 How to reach me: 
 
-## 📱 Mes réseaux sociaux
+## 📱 My socials .
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: I code a game in Ti-basic.
 
-## 📊 Mon activité de développeur
+## 📊 My dev activity
 
 <div align="center">
   
@@ -25,7 +25,7 @@
 
 </div>
 
-## 🛠️ Technologies que j'apprends
+## 🛠️ Technologies i'm learning 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
