@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Walburr
+ <style>.example-section { text-align: center; margin: 20px 0; }  .instagram-icon { width: 20px; height: 20px; fill: white; }  .instagram-button:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(131, 58, 180, 0.4); }  .instagram-button { display: inline-flex; align-items: center; gap: 10px; padding: 12px 25px; text-decoration: none; color: white; font-weight: 600; font-size: 16px; border-radius: 25px; background: linear-gradient(135deg, #833ab4 0%, #fd1d1d 25%, #fcb045 50%, #fccc63 75%, #fbad50 100% ); transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(131, 58, 180, 0.3); }  body { margin: 0; padding: 40px; background: #f5f5f5; font-family: 'Arial', sans-serif; display: flex; flex-direction: column; align-items: center; gap: 30px; }</style>- 👋 Hi, I’m @Walburr
 - 👀 I’m interested in all porgramming luanguages but i want to be a fullstack dev.
 - 🌱 I’m currently learning css , scss , java , javascript , python and C++
 - 💞️ I'm looking to collaborate on web development and web application
-- 📫 How to reach me : <a href="https://discordapp.com/users/USERID" color="#6ed6f6" >Discord</a> . 
+- 📫 How to reach me : <a href="https://discordapp.com/users/Walbur" color="#6ed6f6" >Discord</a> , <div class="example-section"><a href="https://www.instagram.com/walbur_ps/" class="instagram-button"><svg class="instagram-icon" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>Istagram</a></div>  . 
 - ⚡ Fun fact: I code a game in Ti-basic .
 
--Here are my socials :  
+-Here are my developper activity :  
 <a href="https://wakatime.com/@bb16d1fe-1a0a-485d-b714-f07d5a532aec"><img src="https://wakatime.com/badge/user/bb16d1fe-1a0a-485d-b714-f07d5a532aec.svg" alt="Total time coded since Apr 7 2025" /></a>
 <!---
 Walburr/Walburr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
